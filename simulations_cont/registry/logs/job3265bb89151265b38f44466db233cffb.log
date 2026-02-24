@@ -1,0 +1,13 @@
+### [bt]: This is batchtools v0.9.18
+### [bt]: Starting calculation of 1 jobs
+### [bt]: Setting working directory to 'C:/Users/bergen/Documents/GitHub/gkcm_mixed'
+Lade nötiges Paket: RCIT
+Lade nötiges Paket: momentchi2
+Lade nötiges Paket: MASS
+### [bt]: Memory measurement disabled
+### [bt]: Starting job [batchtools job.id=10]
+### [bt]: Generating problem instance for problem 'Null_1' ...
+### [bt]: Applying algorithm 'PCM' on problem 'Null_1' for job 10 (seed = 52) ...
+
+### [bt]: Job terminated successfully [batchtools job.id=10]
+### [bt]: Calculation finished!
