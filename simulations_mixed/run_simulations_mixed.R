@@ -16,7 +16,7 @@ library(data.table)
 rm(list=ls())
 
 # No. of iterations
-k <- 2
+k <- 50
 
 # Sample sizes
 n_vec <- c(500, 1000, 1500, 2000)
@@ -24,7 +24,7 @@ n_vec <- c(500, 1000, 1500, 2000)
 alpha <- 0.05
 
 # Registry directory
-reg_dir <- here("simulations_mixed/registy")
+reg_dir <- here("simulations_mixed/registry")
 # makeExperimentRegistry(file.dir = reg_dir, seed = 42)
 # unlink(reg_dir, recursive = TRUE)
 loadRegistry(reg_dir, writeable = T)

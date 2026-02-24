@@ -16,7 +16,7 @@ library(data.table)
 rm(list=ls())
 
 # No. of iterations
-k <- 2
+k <- 50
 
 # Sample sizes
 n_vec <- c(500, 1000, 1500, 2000)
