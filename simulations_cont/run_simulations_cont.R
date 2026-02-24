@@ -125,6 +125,7 @@ shapes_alg <- c(
   "GCM"   = 16,  
   "PCM"   = 16, # 18  
   "wGCM"  = 16, # 17
+  "KCIT"  = 16,
   "RCIT"  = 16,
   "RCoT"  = 16,
   "GKCM"  = 16  
