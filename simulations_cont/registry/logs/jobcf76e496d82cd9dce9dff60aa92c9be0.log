@@ -1,0 +1,10 @@
+### [bt]: This is batchtools v0.9.18
+### [bt]: Starting calculation of 1 jobs
+### [bt]: Setting working directory to '/home/bergen'
+### [bt]: Memory measurement disabled
+### [bt]: Starting job [batchtools job.id=1920]
+### [bt]: Generating problem instance for problem 'Null_2' ...
+### [bt]: Applying algorithm 'GCM' on problem 'Null_2' for job 1920 (seed = 1962) ...
+
+### [bt]: Job terminated successfully [batchtools job.id=1920]
+### [bt]: Calculation finished!
